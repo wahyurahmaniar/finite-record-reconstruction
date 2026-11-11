@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Finite-classical-record quantum state reconstruction: code and data"
+type: software
+authors:
+  - family-names: Rahmaniar
+    given-names: Wahyu
+    orcid: "https://orcid.org/0000-0002-6902-5455"
+    affiliation: "Institute of Integrated Research, Institute of Science Tokyo"
+license: MIT
+repository-code: "https://github.com/wahyurahmaniar/finite-record-reconstruction"
+url: "https://github.com/wahyurahmaniar/finite-record-reconstruction"
+keywords:
+  - quantum state reconstruction
+  - measure-and-prepare channels
+  - quantum state discrimination
+  - accessible fidelity
+  - semidefinite programming
+preferred-citation:
+  type: article
+  title: "Finite-classical-record quantum state reconstruction: one-shot bounds and acquisition limits"
+  authors:
+    - family-names: Rahmaniar
+      given-names: Wahyu
+      orcid: "https://orcid.org/0000-0002-6902-5455"
+  journal: "Quantum Information Processing"
+  year: 2026
+  notes: "Submitted manuscript"
